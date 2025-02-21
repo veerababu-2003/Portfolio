@@ -102,9 +102,13 @@ Professionalism: A well-organized and documented project that showcases my atten
 
 📬 Contact Me
 Have questions or want to collaborate? Feel free to reach out!
-📧 Email: veerababu.mulagalapalli@sasi.ac.in
-🌐 Portfolio: veerababu-2003.github.io/Resume
-💼 LinkedIn: www.linkedin.com/in/veerababu-mulagalapalli-937228294
-🐙 GitHub: https://github.com/veerababu-2003/
+
+#📧 Email: veerababu.mulagalapalli@sasi.ac.in
+
+#🌐 Portfolio: veerababu-2003.github.io/Resume
+
+#💼 LinkedIn: www.linkedin.com/in/veerababu-mulagalapalli-937228294
+
+#🐙 GitHub: https://github.com/veerababu-2003/
 
 Enjoy exploring my portfolio! Let’s connect and build something amazing together. 🚀
