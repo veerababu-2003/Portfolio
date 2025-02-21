@@ -1,4 +1,4 @@
-# Portfolio Webpage 🌐
+# Portfolio Webpage 🌐🧑‍💻🖥️
 
 Welcome to my **Portfolio Webpage**! This project is a showcase of my skills, projects, and creativity as a web developer. It’s designed to provide a seamless and engaging experience for visitors while highlighting my expertise in modern web development.
 
@@ -47,51 +47,18 @@ Welcome to my **Portfolio Webpage**! This project is a showcase of my skills, pr
 
 ## 📂 Project Structure
 portfolio-webpage/
-├── public/ # Static assets (images, icons, etc.)
-├── src/ # Source code
-│ ├── components/ # Reusable UI components (Navbar, Footer, etc.)
-│ ├── pages/ # Application pages (Home, Projects, Contact, etc.)
-│ ├── styles/ # CSS or SCSS files
-│ └── App.js # Main application component
-├── README.md # Project documentation
-└── package.json # Dependencies and scripts
+-├── public/ # Static assets (images, icons, etc.)
+-├── src/ # Source code
+-│ ├── components/ # Reusable UI components (Navbar, Footer, etc.)
+-│ ├── pages/ # Application pages (Home, Projects, Contact, etc.)
+-│ ├── styles/ # CSS or SCSS files
+-│ └── App.js # Main application component
+-├── README.md # Project documentation
+-└── package.json # Dependencies and scripts
 
 ---
 
-## 🎯 How to Use
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/portfolio-webpage.git
-   cd portfolio-webpage
-Install Dependencies
-
-bash
-Copy
-npm install
-Run the Application
-
-bash
-Copy
-npm start
-Open in Browser
-Visit http://localhost:3000 to explore the portfolio.
-
-🔧 Customization
-Update Content: Modify the text and images in the src/pages/ folder to reflect your personal information.
-
-Add Projects: Add new projects to the Projects section by updating the data file or component.
-
-Change Themes: Customize the colors and styles in the styles/ folder to match your branding.
-
-🌐 Live Demo
-Check out the live version of my portfolio:
-👉 Live Demo Link
-
-📄 License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
-
-💡 Why This Project?
+##💡 Why This Project?
 This portfolio webpage is a reflection of my:
 
 Technical Skills: Proficiency in frontend and backend technologies.
@@ -103,12 +70,12 @@ Professionalism: A well-organized and documented project that showcases my atten
 📬 Contact Me
 Have questions or want to collaborate? Feel free to reach out!
 
-#📧 Email: veerababu.mulagalapalli@sasi.ac.in
+-📧 Email: veerababu.mulagalapalli@sasi.ac.in
 
-#🌐 Portfolio: veerababu-2003.github.io/Resume
+-🌐 Portfolio: https://veerababu-2003.github.io/resume
 
-#💼 LinkedIn: www.linkedin.com/in/veerababu-mulagalapalli-937228294
+-💼 LinkedIn: www.linkedin.com/in/veerababu-mulagalapalli-937228294
 
-#🐙 GitHub: https://github.com/veerababu-2003/
+-🐙 GitHub: https://github.com/veerababu-2003/
 
 Enjoy exploring my portfolio! Let’s connect and build something amazing together. 🚀
